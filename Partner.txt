@@ -1,0 +1,11 @@
+Pour commencer, vous devez choisir un partenaire avec qui vous souhaitez travailler ou décider de travailler seul. Une fois cette décision prise, vous pouvez choisir un projet parmi la liste disponible et informer votre instructeur de votre choix.
+
+Si vous travaillez avec un partenaire, vous devrez soumettre un projet cohérent sur lequel vous allez collaborer, et l'instructeur vous guidera dans la phase de développement du projet. Si vous préférez travailler seul, votre instructeur vous assistera également dans la sélection du projet approprié et la gestion de la phase de laboratoire.
+
+En résumé, voici les étapes à suivre :
+
+Choisissez un partenaire ou décidez de travailler seul.
+Sélectionnez un projet parmi la liste fournie.
+Informez votre instructeur de votre choix (nom du projet et partenaire si applicable).
+Soumettez un projet de dépôt avec le nom ou le sujet du projet choisi.
+Cela marquera le début de la phase de laboratoire, où vous pourrez commencer à travailler sur le projet sélectionné.
